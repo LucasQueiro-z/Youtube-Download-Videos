@@ -1,7 +1,7 @@
 # Youtube-Download-Videos
 Programa Desenvolvido Por Mim Com O Objetivo de Baixar Vídeos do Youtube Facilmente.
 Nele Você Tera Duas Opções, Baixar o Vídeo Em Alta Qualidade ou Na Pior Qualidade, è Você Quem Decide!
-Ah, Quase Esquecendo, Durando o Download, Pode Ser Que Apareça O Seguinte Problema: "O Programa Parou de Responder"!
+Ah, Quase Esquecendo, Durante o Download, Pode Ser Que Apareça O Seguinte Problema: "O Programa Parou de Responder"!
 Bem, Isso é Normal! Basta Esperar Uns 5 Segundinhos Que já Volta ao Normal. :D
 
 
