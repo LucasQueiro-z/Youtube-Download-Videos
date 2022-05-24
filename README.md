@@ -11,3 +11,4 @@ In it you will have two options, download the video in high quality or in the wo
 Ah, almost forgetting, while downloading, the following problem may appear: "The program has stopped responding"!
 Well that's normal! Just wait about 5 seconds and it's back to normal.
 
+# Python 3.10
